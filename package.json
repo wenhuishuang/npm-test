@@ -1,0 +1,16 @@
+{
+  "name": "npm-test-001",
+  "version": "1.0.1",
+  "description": "npm包开发测试",
+  "main": "a.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "qzy",
+    "npm-test"
+  ],
+  "author": "quanzaiyu",
+  "license": "ISC"
+}
